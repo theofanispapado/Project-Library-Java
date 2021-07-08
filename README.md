@@ -1,2 +1,2 @@
-# Project-Library-Java
-Build Java project to add/delete and search books 
+You have to to install Java_project.txt and myTempFile.txt
+Change paths and ENJOY IT!
